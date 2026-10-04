@@ -10,11 +10,6 @@ in a live 3D model. No 3D modelling, no scanning hardware, no training data.
 
 `Unity 6` · `C#` · `AR Foundation / ARCore` · `Python` · `FastAPI` · `OpenCV` · `PyTorch` · `SegFormer` · `YOLOE`
 
-<!-- Replace these with your links -->
-[🎥 Demo video](#) · [📝 Devpost](#) · [📖 Setup guide](docs/SETUP.md) · [🧭 Code guide](docs/CODE_GUIDE.md)
-
-![Architecture](docs/architecture.png)
-
 </div>
 
 ---
